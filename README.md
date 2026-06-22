@@ -1,4 +1,24 @@
+# Lead Scoring Model — X Education Case Study
+
+A Logistic Regression model to identify high-probability leads ("Hot Leads") for X Education, an online course provider. The model assigns a Lead Score (0–100) to each incoming lead, enabling the sales team to prioritise outreach and achieve the CEO's target of ~80% conversion rate.
+
 ---
+
+## Problem Statement
+
+X Education generates a large volume of leads daily but converts only ~30% of them. The sales team spends equal effort on every lead regardless of conversion likelihood, resulting in wasted resources and missed revenue. The goal was to build a model that scores each lead so the team focuses only on the most promising ones.
+
+---
+
+## Dataset
+
+- 9,240 leads | 37 raw features | 17 final features after selection
+- Target variable: `Converted` (1 = enrolled, 0 = not enrolled)
+- Baseline conversion rate: **38.5%**
+
+---
+
+## Project Structure
 
 ## Approach
 
