@@ -18,7 +18,6 @@ X Education generates a large volume of leads daily but converts only ~30% of th
 
 ---
 
-## Project Structure
 
 ## Approach
 
